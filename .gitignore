@@ -1,3 +1,6 @@
+#custom entries
+db/*
+
 # Logs
 logs
 *.log
